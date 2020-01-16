@@ -4,6 +4,7 @@
 
 1. Easy
    * [numbersGrouping](problem/1.numbersGrouping.md)
+   * [giftSafety](problem/2.giftSafety.md)
 2. Medium
    * None
 3. Hard
