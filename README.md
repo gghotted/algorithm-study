@@ -6,6 +6,6 @@
    * [numbersGrouping](problem/1.numbersGrouping.md)
    * [giftSafety](problem/2.giftSafety.md)
 2. Medium
-   * None
+   * [단속카메라](problem/3.단속카메라.md)
 3. Hard
    * None
