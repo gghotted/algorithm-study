@@ -7,5 +7,7 @@
    * [giftSafety](problem/2.giftSafety.md)
 2. Medium
    * [단속카메라](problem/3.단속카메라.md)
+   * [종이접기](problem/4.종이접기.md)
+   * [타일장식물](problem/5.타일장식물.md)
 3. Hard
    * None
