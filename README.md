@@ -10,7 +10,7 @@
    * [종이접기](problem/4.종이접기.md)
    * [타일장식물](problem/5.타일장식물.md)
 3. Hard
-   * [가사 검색](problem/7.가사 검색.md)
+   * [가사 검색](problem/7.가사-검색.md)
    * [문자열 압축](problem/8.문자열 압축.md)
 4. 풀이중
    * [자물쇠와 열쇠](problem/6.자물쇠와 열쇠.md)
